@@ -10,7 +10,9 @@ A ByteForge Studios app.
 
 Or grab it from the [Releases](https://github.com/azaan-ship-it/CircuitForge-App/releases) page. Windows may show a SmartScreen warning because the app isn't signed yet: click **More info → Run anyway**.
 
-<!-- WEB -->
+## Play on the web
+
+**[Open CircuitForge in your browser](https://circuitforge-hp63.onrender.com)**, no install needed. (The free server sleeps when nobody is using it, so the first load can take about a minute.)
 
 ## Features
 
